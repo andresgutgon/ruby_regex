@@ -1,3 +1,5 @@
+# encoding: UTF-8
+
 module RubyRegex
   # Username
   # This regular expression doesn't validate username's length
